@@ -1,5 +1,7 @@
 * programming
 https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html
+bak: https://web.archive.org/web/20200331042316/https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html
 
 * lisp
 https://emacs-china.org/t/lisp/4519/2
+bak: https://web.archive.org/web/20200331042233/https://emacs-china.org/t/lisp/4519/2
